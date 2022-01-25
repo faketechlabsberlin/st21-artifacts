@@ -1,7 +1,15 @@
-![landing page](images/landingPage.PNG)
+# Artifacts
+
+## About
+
+\
+Born from an idea to provide the Berlin creative and art scene with a web app to make borrowing artists equipment easy and accessible using its own currency, the product concept has quickly developed into a platform for buying and selling second-hand items, as well as giving and obtaining them for free, thanks to critical user research and survey. Artifacts allows users to post, search and manage items and to contact the current owners.
 
 ## Overview
-**Artifacts** - Born from an idea to provide the Berlin creative and art scene with a web app to make borrowing artists equipment easy and accessible using its own currency, the product concept has quickly developed into a platform for buying and selling second-hand items, as well as giving and obtaining them for free, thanks to critical user research and survey. Artifacts allows users to post, search and manage items and to contact the current owners.
+
+
+![landing page](images/landingPage.PNG)
+
 
 In addition to functionalities such as user login via an existing Google account, an extensive search mask for finding items and an editable user profile, Artifacts also allows users to create and delete their own items and save favorites. With the connection to a Google Firebase Realtime Database the information is stored securely and can be retrieved at a later session.
 
