@@ -29,7 +29,7 @@
             "email_adress": null,
             "display": true
          },
-         "name": "Luciana",
+          {"name": "Luciana",
             "full_name": "Luciana, Serna",
             "track": "WD",
             "github_name": "Sernawills",
@@ -38,7 +38,7 @@
             "email_adress": null,
             "display": true
         },
-         "name": "Pika",
+          {"name": "Pika",
             "full_name": "Pika, Stih",
             "track": "UX",
             "github_name": "Pikastih",
@@ -47,7 +47,7 @@
             "email_adress": null,
             "display": true
         },
-         "name": "Stefanie",
+          {"name": "Stefanie",
             "full_name": "Stefanie, Zastrow",
             "track": "WD",
             "github_name": "SteffiZ-0-0",
@@ -56,7 +56,7 @@
             "email_adress": null,
             "display": true
         },
-         "name": "Terence Li",
+          {"name": "Terence Li",
             "full_name": "Terence, Li",
             "track": "WD",
             "github_name": "terenlih",
