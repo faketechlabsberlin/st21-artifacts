@@ -1,13 +1,13 @@
 {
     "project_name": "st21-artifacts",
     "project_name_full": "Artifacts",
-    "project_description": "[project_description]",
-    "project_video_url": "[project_video_url]",
-    "project_prototype_url": "[project_protype_url]",
+    "project_description": "https://github.com/faketechlabsberlin/st21-artifacts/blob/main/shortProjectDescription.pdf",
+    "project_video_url": "https://www.youtube.com/watch?v=p2EWyoVflWI",
+    "project_prototype_url": "https://artifacts-effcb.web.app",
     "techlabs_url": "https://techlabs.org/",
-    "techlabs_location": "[Berlin]",
-    "techlabs_semester": "[WiSe2021]",
-    "project_status": "[searching for funding]",
+    "techlabs_location": "Berlin",
+    "techlabs_semester": "Winter 2021",
+    "project_status": "searching for funding",
     "project_tools": ["Notion", "Fondora", "Postman"],
     "project_members_contacts": [
         {
@@ -16,8 +16,8 @@
             "track": "WD",
             "github_name": "Eunnylans",
             "github_url": "https://github.com/Eunnylans",
-            "linkedin_url": "https://linkedin",
-            "email_adress": "Nickname1@provider.com",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
         {"name": "Kati",
@@ -25,8 +25,8 @@
             "track": "UX",
             "github_name": "Ekaterina22",
             "github_url": "https://github.com/ekaterina22",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
          },
          "name": "Luciana",
@@ -34,8 +34,8 @@
             "track": "WD",
             "github_name": "Sernawills",
             "github_url": "https://github.com/sernawill]",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
          "name": "Pika",
@@ -43,8 +43,8 @@
             "track": "UX",
             "github_name": "Pikastih",
             "github_url": "https://github.com/pikastih",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
          "name": "Stefanie",
@@ -52,8 +52,8 @@
             "track": "WD",
             "github_name": "SteffiZ-0-0",
             "github_url": "https://github.com/SteffiZ-0-0",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
          "name": "Terence Li",
@@ -61,8 +61,8 @@
             "track": "WD",
             "github_name": "terenlih",
             "github_url": "https://github.com/terenlih",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         }
         ]
